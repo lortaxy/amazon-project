@@ -656,5 +656,35 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "id1",
+    image: "images/products/backpack.jpg",
+    name: "Waterproof Sports Backpack",
+    rating: {
+      stars: 4.0,
+      count: 2137
+    },
+    priceCents: 4050,
+    keywords: [
+      "backpacks",
+      "bags",
+      "school"
+    ]
+  },
+  {
+    id: "id2",
+    image: "images/products/umbrella.jpg",
+    name: "Umbrella",
+    rating: {
+      stars: 3.5,
+      count: 1203
+    },
+    priceCents: 1200,
+    keywords: [
+      "umbrella",
+      "rain",
+      "weather"
+    ]
   }
 ];
